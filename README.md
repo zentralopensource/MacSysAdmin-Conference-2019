@@ -1,20 +1,31 @@
 # MacSysAdmin-Conference-2019
 
-Info to complement our MacSysadmin 2019 talk.
+Complementary notes for **MacSysAdmin-Conference-2019** presentation: _"LOGGING - About Needles in the Modern Haystack"_
 
-#### Date: **01. October 2019**
-#### Session Title: **LOGGING - About Needles in the Modern Haystack** 
-Link: https://www.macsysadmin.se/program.html
+- MacSysAdmin-Conference-2019 (English) [details here](https://www.macsysadmin.se/program.html)
+- Conference Date: **01. October 2019**
 
-Contact: http://int.zentral.pro
+# Slides (english)
 
-
---
-
-# Follow up links
+Here you'll find the [english version](./pdf/MacSysAdmin-Conference-2019.pdf) of our slides. 
 
 
-### Apple Security Extension (macOS 10.15, iOS 13)
+![](./pdf/MacSysAdmin-Conference-2019_cover.jpg)
+
+# Who are we ?
+
+We are [Zentral Pro Services](https://www.zentral.pro/) - a consulting, research and development company.
+We help clients unleash the potential of their Apple devices in a business environment.
+
+We also build [Zentral opensource](https://github.com/zentralopensource/zentral/wiki).
+
+---
+
+
+
+# Follow-Up Links
+
+### Apple Security Extension (macOS 10.15)
 
 - https://developer.apple.com/documentation/systemextensions
 - https://developer.apple.com/documentation/endpointsecurity#overview
