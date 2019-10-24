@@ -5,6 +5,9 @@ Complementary notes for **MacSysAdmin-Conference-2019** presentation: _"LOGGING 
 - MacSysAdmin-Conference-2019 (English) [details here](https://www.macsysadmin.se/program.html)
 - Conference Date: **01. October 2019**
 
+Video: http://docs.macsysadmin.se/2019/video/Day1Session7.mp4
+Slides: http://docs.macsysadmin.se/2019/pdf/Day1Session7.pdf
+
 # Slides (english)
 
 Here you'll find the [english version](./pdf/MacSysAdmin-Conference-2019.pdf) of our slides. 
