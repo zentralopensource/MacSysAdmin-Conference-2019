@@ -61,6 +61,9 @@ We also build [Zentral opensource](https://github.com/zentralopensource/zentral/
 
 - https://www.microsoft.com/en-us/security/partnerships/graph-security-api
 
+### Modern Security Tools
+- Jamf Protect (launched 12.Okt 2019 during JNUC) - https://www.jamf.com/resources/press-releases/jamf-launches-jamf-protect-enterprise-endpoint-protection-purpose-built-for-mac/
+
 ### Security Incident Event Management (SIEM) Solutions
 - [Elastic SIEM](https://www.elastic.co/products/siem)
 - [Chronicle](https://chronicle.security/)
